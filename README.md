@@ -44,27 +44,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 </a>
 
 <br/>
-<br/>
-
-<div align="center">
-  <a href="https://twitter.com/ZeroQ4">
-    <img align="left" alt="Sandeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-  <a href="https://linkedin.com/in/ZeroQ4">
-    <img align="left" alt="ZeroQ4 Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://github.com/ZeroQ4">
-    <img align="left" alt="ZeroQ4 Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
-  <a href="https://instagram.com/ZeroQ4">
-    <img align="left" alt="ZeroQ4 Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-  <a href="https://www.facebook.com/ZeroQ4">
-    <img align="left" alt="ZeroQ4 Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-  </a>
-
-</div>
-
-<br/>
 
 #### Tag ⭐️ the repositories if they help you! <img  align="right" src="https://komarev.com/ghpvc/?username=ZeroQ4&label=Views&color=blue&style=plastic" alt="ZeroQ4" />
