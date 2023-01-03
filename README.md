@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on DeFi, NFT in Web3 ecosystems.
+- 🔭 I’m currently working on Web3 ecosystems.
 - 💬 Ask me about JavaScript, TypeScript, Rust, or any tech-related stuff.
 - 📫 How to reach me: zero.web3@proton.me
 - 😄 Pronouns: He/His
