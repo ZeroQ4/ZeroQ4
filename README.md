@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZeroQ4</h1>
 <h3 align="center">Web3 Developer</h3>
 
-![image](https://github.com/skdonepudi/skdonepudi/blob/main/dino.gif)
 
 
 - 🔭 I’m currently working on DeFi, NFT in Web3 ecosystems.
