@@ -4,10 +4,9 @@
 ![image](https://github.com/skdonepudi/skdonepudi/blob/main/dino.gif)
 
 
-- 🔭 I’m currently working on [NFTs](https://en.wikipedia.org/wiki/Non-fungible_token).
-- 🌱 I’m currently learning more about Web3 Stuff.
-- 💬 Ask me about Python, JavaScript, Rust, Flutter, or any tech-related stuff.
-- 📫 How to reach me: sandeeepdonepudi@gmail.com
+- 🔭 I’m currently working on DeFi, NFT in Web3 ecosystems.
+- 💬 Ask me about JavaScript, TypeScript, Rust, or any tech-related stuff.
+- 📫 How to reach me: zero.web3@proton.me
 - 😄 Pronouns: He/His
 - ❤️ Open Source Software
 - ⚡ Fun fact: My first line of code was not "Hello World!"
@@ -36,37 +35,37 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br/>
 <br/>
 
-<a href="https://github.com/skdonepudi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=skdonepudi&show_icons=true&theme=react" alt="Sandeep's github stats"/>
+<a href="https://github.com/ZeroQ4">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeroQ4&show_icons=true&theme=react" alt="ZeroQ4 github stats"/>
   
 </a>
  
-<a href="https://github.com/skdonepudi">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=skdonepudi&layout=compact&theme=react" style="max-width:100%;" />
+<a href="https://github.com/ZeroQ4">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ZeroQ4&layout=compact&theme=react" style="max-width:100%;" />
 </a>
 
 <br/>
 <br/>
 
 <div align="center">
-  <a href="https://twitter.com/skdonepudi">
+  <a href="https://twitter.com/ZeroQ4">
     <img align="left" alt="Sandeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="https://linkedin.com/in/skdonepudi">
-    <img align="left" alt="Sandeep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <a href="https://linkedin.com/in/ZeroQ4">
+    <img align="left" alt="ZeroQ4 Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://github.com/skdonepudi">
-    <img align="left" alt="Sandeep's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <a href="https://github.com/ZeroQ4">
+    <img align="left" alt="ZeroQ4 Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-  <a href="https://instagram.com/skdonepudi/">
-    <img align="left" alt="Sandeep's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <a href="https://instagram.com/ZeroQ4">
+    <img align="left" alt="ZeroQ4 Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-  <a href="https://www.facebook.com/sandeepkrishna99/">
-    <img align="left" alt="Sandeep's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <a href="https://www.facebook.com/ZeroQ4">
+    <img align="left" alt="ZeroQ4 Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
 
 </div>
 
 <br/>
 
-#### Show some ❤️ by starring the repositories if they help you! <img  align="right" src="https://komarev.com/ghpvc/?username=skdonepudi&label=Views&color=blue&style=plastic" alt="Sandeep krishna" />
+#### Show some ❤️ by starring the repositories if they help you! <img  align="right" src="https://komarev.com/ghpvc/?username=ZeroQ4&label=Views&color=blue&style=plastic" alt="ZeroQ4" />
