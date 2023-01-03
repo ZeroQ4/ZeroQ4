@@ -36,9 +36,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <a href="https://github.com/ZeroQ4">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeroQ4&show_icons=true&theme=dark" alt="ZeroQ4 github stats"/>
-  
 </a>
- 
+
+<br/>
+<br/>
+
 <a href="https://github.com/ZeroQ4">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ZeroQ4&layout=compact&theme=dark" style="max-width:100%;" />
 </a>
