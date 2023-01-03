@@ -14,16 +14,16 @@
 **Languages and Tools:**  
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/Javascript.png" style="max-width:100%;">
-<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/060bb66f4eb8ab27e47fcc0858f432962b758966/img/Typescript.svg" style="max-width:100%;"></a>
-<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/react.svg" style="max-width:100%;"></a>
-<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/Rust.png" style="max-width:100%;"></a>
-<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/c-programming.png" style="max-width:100%;"></a>
-<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/nodejs.png" style="max-width:100%;"></a>
-<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/next-js.png" style="max-width:100%;"></a>
-<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/css.png" style="max-width:100%;"></a>
-<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/HTML5.png" style="max-width:100%;"></a>
-<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/mysql.png" style="max-width:100%;"></a>
-<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/Git.png" style="max-width:100%;"></a>
+<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/060bb66f4eb8ab27e47fcc0858f432962b758966/img/Typescript.svg" style="max-width:100%;">
+<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/react.svg" style="max-width:100%;">
+<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/Rust.png" style="max-width:100%;">
+<img align="left" alt="c-programming" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/c-programming.png" style="max-width:100%;">
+<img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/nodejs.png" style="max-width:100%;">
+<img align="left" alt="next-js" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/next-js.png" style="max-width:100%;">
+<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/css.png" style="max-width:100%;">
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/HTML5.png" style="max-width:100%;">
+<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/mysql.png" style="max-width:100%;">
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/ZeroQ4/ZeroQ4/main/img/Git.png" style="max-width:100%;">
 
 
 
