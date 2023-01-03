@@ -68,4 +68,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br/>
 
-#### ⭐️ the repositories if they help you! <img  align="right" src="https://komarev.com/ghpvc/?username=ZeroQ4&label=Views&color=blue&style=plastic" alt="ZeroQ4" />
+#### ⭐️ repositories if they help you! <img  align="right" src="https://komarev.com/ghpvc/?username=ZeroQ4&label=Views&color=blue&style=plastic" alt="ZeroQ4" />
