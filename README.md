@@ -8,7 +8,6 @@
 - 📫 How to reach me: zero.web3@proton.me
 - 😄 Pronouns: He/His
 - ❤️ Open Source Software
-- ⚡ Fun fact: My first line of code was not "Hello World!"
 
 
 **Languages and Tools:**  
